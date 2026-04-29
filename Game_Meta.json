@@ -14,7 +14,7 @@
     "cardBack": "https://jekabsvanags.github.io/meta/Card%20Back.png"
   },
   "deckBuilding": {
-    "mainFilters": ["type", "cost", "name"],
+    "mainFilters": ["type", "cost", "name", "faction"],
     "formats": [
       {
         "title": "Classic",
@@ -32,7 +32,7 @@
         "drawNewSelectedCards": false
       },
       "newTurn": {
-        "drawOnStart": true,
+        "drawOnStart": false,
         "sharedTurn": false,
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
@@ -49,17 +49,19 @@
           "content": [
             {
               "direction": "row",
-              "style": {},
+              "style": false,
               "content": [
                 {
                   "section": "Played",
-                  "style": {
-                    "width": "80vw"
-                  }
+                  "style": false
+                },
+                {
+                  "section": "Equip",
+                  "style": false
                 },
                 {
                   "section": "Set",
-                  "style": {}
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -70,26 +72,11 @@
               "content": [
                 {
                   "section": "Metas",
-                  "style": {
-                    "width": "80vw"
-                  }
+                  "style": false
                 },
                 {
                   "section": "Faction",
-                  "style": {}
-                }
-              ],
-              "isSymetricalForOpponents": false
-            },
-            {
-              "direction": "row",
-              "style": {},
-              "content": [
-                {
-                  "section": "Equip / Other",
-                  "style": {
-                    "width": "80vw"
-                  }
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -99,7 +86,7 @@
         "categoriesAlreadyOnBoard": ["Metas", "Faction"],
         "autoPlayFromHand": {
           "ability": "Played",
-          "equipment": "Equip / Other",
+          "equipment": "Equip ",
           "evo": "Metas",
           "set": "Set"
         },
@@ -137,22 +124,6 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Equip / Other": {
-            "title": "Equip / Other",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Set": {
             "title": "Set",
             "isHidden": "no",
@@ -171,6 +142,22 @@
           },
           "Faction": {
             "title": "Faction",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Equip": {
+            "title": "Equip",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
