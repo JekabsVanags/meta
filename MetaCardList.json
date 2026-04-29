@@ -15,5 +15,90 @@
     "type": "meta",
     "cost": 0,
     "faction": "ASC"
+  },
+  "ASC": {
+    "id": "ASC",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Ascendants",
+        "type": "faction",
+        "cost": 0,
+        "image": "https://jekabsvanags.github.io/meta/CallingCardImages/ASC.jpg",
+        "isHorizontal": true
+      }
+    },
+    "name": "The Ascendants",
+    "type": "faction",
+    "cost": 0,
+    "faction": "ASC"
+  },
+  "ASC_1BFTC": {
+    "id": "ASC_1BFTC",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Beads of the chant",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/ASC_1BFTC.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Beads of the chant",
+    "type": "ability",
+    "cost": "1",
+    "faction": "ASC"
+  },
+  "ASC_1HOTLB": {
+    "id": "ASC_1HOTLB",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Heart that remains",
+        "type": "equipment",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/ASC_1HOTLB.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Heart that remains",
+    "type": "equipment",
+    "cost": "1",
+    "faction": "ASC"
+  },
+  "ASC_3TS": {
+    "id": "ASC_3TS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Converged, S3R1M",
+        "type": "evo",
+        "cost": "3",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/ASC_3TS.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Converged, S3R1M",
+    "type": "evo",
+    "cost": "3",
+    "faction": "ASC"
+  },
+  "ASC_3TFW": {
+    "id": "ASC_3TFW",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The final words",
+        "type": "set",
+        "cost": "3",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/ASC_3TFW.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The final words",
+    "type": "set",
+    "cost": "3",
+    "faction": "ASC"
   }
 }
