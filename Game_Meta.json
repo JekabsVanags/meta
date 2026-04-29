@@ -1,6 +1,6 @@
 {
   "name": "Meta",
-  "menuBackgroundImage": "https://file.garden/afDvqkDycVrE2_vr/Card%20Back.png",
+  "menuBackgroundImage": "https://jekabsvanags.github.io/meta/Card%20Back.png",
   "defaultRessources": {
     "backgrounds": [
       "https://static.vecteezy.com/system/resources/thumbnails/017/680/390/small/violet-zoom-abstract-background-photo.jpg"
@@ -10,12 +10,17 @@
   "customHelp": "None",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://valcur.github.io/TCG-Arena-MTG/MTGCards.json",
-    "cardBack": "https://file.garden/afDvqkDycVrE2_vr/Card%20Back.png"
+    "dataUrl": "https://jekabsvanags.github.io/meta/MetaCardList.json",
+    "cardBack": "https://jekabsvanags.github.io/meta/Card%20Back.png"
   },
   "deckBuilding": {
     "mainFilters": ["type", "cost", "name"],
-    "formats": []
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic"
+      }
+    ]
   },
   "gameplay": {
     "Classic": {
