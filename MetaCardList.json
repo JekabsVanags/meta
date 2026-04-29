@@ -245,7 +245,7 @@
         "name": "Guardian, Murasaki",
         "type": "meta",
         "cost": 0,
-        "image": "https://jekabsvanags.github.io/meta/MetaCardImages/KNS_A_GM.jpg",
+        "image": "https://jekabsvanags.github.io/meta/MetaCardImages/KNS_A_GM.png",
         "isHorizontal": false
       }
     },
@@ -262,7 +262,7 @@
         "name": "Lost sword, Hōrō-sha",
         "type": "meta",
         "cost": 0,
-        "image": "https://jekabsvanags.github.io/meta/MetaCardImages/KNS_B_LSH.jpg",
+        "image": "https://jekabsvanags.github.io/meta/MetaCardImages/KNS_B_LSH.png",
         "isHorizontal": false
       }
     },
@@ -279,7 +279,7 @@
         "name": "Herb gatherer, Keshi",
         "type": "meta",
         "cost": 0,
-        "image": "https://jekabsvanags.github.io/meta/MetaCardImages/KNS_C_HGK.jpg",
+        "image": "https://jekabsvanags.github.io/meta/MetaCardImages/KNS_C_HGK.png",
         "isHorizontal": false
       }
     },
@@ -917,15 +917,15 @@
     "cost": "3",
     "faction": "VRS"
   },
-  "VRS_3SOTF": {
-    "id": "VRS_3SOTF",
+  "VRS_3OTF": {
+    "id": "VRS_3OTF",
     "isToken": false,
     "face": {
       "front": {
         "name": "Serenity of the flame",
         "type": "set",
         "cost": "3",
-        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/VRS_3SOTF.jpg",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/VRS_3OTF.jpg",
         "isHorizontal": false
       }
     },
@@ -1121,15 +1121,15 @@
     "cost": "3",
     "faction": "KNS"
   },
-  "KNS_3BOTF": {
-    "id": "KNS_3BOTF",
+  "KNS_3TBOTF": {
+    "id": "KNS_3TBOTF",
     "isToken": false,
     "face": {
       "front": {
         "name": "Blade of the fallen",
         "type": "ability",
         "cost": "3",
-        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/KNS_3BOTF.jpg",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/KNS_3TBOTF.jpg",
         "isHorizontal": false
       }
     },
