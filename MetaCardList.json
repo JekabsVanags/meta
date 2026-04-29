@@ -118,6 +118,108 @@
     "cost": 0,
     "faction": "ASC"
   },
+  "DWN_A_SBW": {
+    "id": "DWN_A_SBW",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sky Barron, Willaim",
+        "type": "meta",
+        "cost": 0,
+        "image": "https://jekabsvanags.github.io/meta/MetaCardImages/DWN_A_SBW.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sky Barron, Willaim",
+    "type": "meta",
+    "cost": 0,
+    "faction": "DWN"
+  },
+  "DWN_B_NRB": {
+    "id": "DWN_B_NRB",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noble Runaway, Billey",
+        "type": "meta",
+        "cost": 0,
+        "image": "https://jekabsvanags.github.io/meta/MetaCardImages/DWN_B_NRB.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noble Runaway, Billey",
+    "type": "meta",
+    "cost": 0,
+    "faction": "DWN"
+  },
+  "DWB_C_TTT": {
+    "id": "DWB_C_TTT",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Thoumas, the Tinkerer",
+        "type": "meta",
+        "cost": 0,
+        "image": "https://jekabsvanags.github.io/meta/MetaCardImages/DWB_C_TTT.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Thoumas, the Tinkerer",
+    "type": "meta",
+    "cost": 0,
+    "faction": "DWN"
+  },
+  "VRS_A_FT": {
+    "id": "VRS_A_FT",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flamebearer, Tur`ya",
+        "type": "meta",
+        "cost": 0,
+        "image": "https://jekabsvanags.github.io/meta/MetaCardImages/VRS_A_FT.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flamebearer, Tur`ya",
+    "type": "meta",
+    "cost": 0,
+    "faction": "VRS"
+  },
+  "VRS_B_FW": {
+    "id": "VRS_B_FW",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flamecoat, Wrai`ta",
+        "type": "meta",
+        "cost": 0,
+        "image": "https://jekabsvanags.github.io/meta/MetaCardImages/VRS_B_FW.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flamecoat, Wrai`ta",
+    "type": "meta",
+    "cost": 0,
+    "faction": "VRS"
+  },
+  "VRS_C_YK": {
+    "id": "VRS_C_YK",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Youngling, Kar`za",
+        "type": "meta",
+        "cost": 0,
+        "image": "https://jekabsvanags.github.io/meta/MetaCardImages/VRS_C_YK.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Youngling, Kar`za",
+    "type": "meta",
+    "cost": 0,
+    "faction": "VRS"
+  },
   "ASC_1BFTC": {
     "id": "ASC_1BFTC",
     "isToken": false,
@@ -321,5 +423,328 @@
     "type": "set",
     "cost": "3",
     "faction": "ASC"
+  },
+  "DWN_1DITS": {
+    "id": "DWN_1DITS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dagger in the shadows",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/DWN_1DITS.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dagger in the shadows",
+    "type": "ability",
+    "cost": "1",
+    "faction": "DWN"
+  },
+  "DWN_1GAT": {
+    "id": "DWN_1GAT",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "`Gears and turns`",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/DWN_1GAT.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "`Gears and turns`",
+    "type": "ability",
+    "cost": "1",
+    "faction": "DWN"
+  },
+  "DWN_1HAC": {
+    "id": "DWN_1HAC",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "High altitude craft",
+        "type": "set",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/DWN_1HAC.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "High altitude craft",
+    "type": "set",
+    "cost": "1",
+    "faction": "DWN"
+  },
+  "DWN_1HRT": {
+    "id": "DWN_1HRT",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "High risk trading",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/DWN_1HRT.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "High risk trading",
+    "type": "ability",
+    "cost": "1",
+    "faction": "DWN"
+  },
+  "DWN_1PS": {
+    "id": "DWN_1PS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Private security",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/DWN_1PS.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Private security",
+    "type": "ability",
+    "cost": "1",
+    "faction": "DWN"
+  },
+  "DWN_2GOTA": {
+    "id": "DWN_2GOTA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gold of the Aristocrats",
+        "type": "ability",
+        "cost": "2",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/DWN_2GOTA.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gold of the Aristocrats",
+    "type": "ability",
+    "cost": "2",
+    "faction": "DWN"
+  },
+  "DWN_2HUR": {
+    "id": "DWN_2HUR",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "High University, Ranford",
+        "type": "set",
+        "cost": "2",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/DWN_2HUR.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "High University, Ranford",
+    "type": "set",
+    "cost": "2",
+    "faction": "DWN"
+  },
+  "DWN_2NPB": {
+    "id": "DWN_2NPB",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noble pleasure barge",
+        "type": "set",
+        "cost": "2",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/DWN_2NPB.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noble pleasure barge",
+    "type": "set",
+    "cost": "2",
+    "faction": "DWN"
+  },
+  "DWN_2PHC": {
+    "id": "DWN_2PHC",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Prototype hand-cannon",
+        "type": "equipment",
+        "cost": "2",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/DWN_2PHC.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Prototype hand-cannon",
+    "type": "equipment",
+    "cost": "2",
+    "faction": "DWN"
+  },
+  "DWN_3AMF": {
+    "id": "DWN_3AMF",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Armed municipality, Finsbur",
+        "type": "set",
+        "cost": "3",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/DWN_3AMF.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Armed municipality, Finsbur",
+    "type": "set",
+    "cost": "3",
+    "faction": "DWN"
+  },
+  "DWN_3BITS": {
+    "id": "DWN_3BITS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Battle in the sky",
+        "type": "ability",
+        "cost": "3",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/DWN_3BITS.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Battle in the sky",
+    "type": "ability",
+    "cost": "3",
+    "faction": "DWN"
+  },
+  "DWN_3UFR": {
+    "id": "DWN_3UFR",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Upgrades from Ranford",
+        "type": "ability",
+        "cost": "3",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/DWN_3UFR.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Upgrades from Ranford",
+    "type": "ability",
+    "cost": "3",
+    "faction": "DWN"
+  },
+  "GNR_1A": {
+    "id": "GNR_1A",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Alliance",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/GNR_1A.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Alliance",
+    "type": "ability",
+    "cost": "1",
+    "faction": "GNR"
+  },
+  "GNR_1BIC": {
+    "id": "GNR_1BIC",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bound in chains",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/GNR_1BIC.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bound in chains",
+    "type": "ability",
+    "cost": "1",
+    "faction": "GNR"
+  },
+  "GNR_1WF": {
+    "id": "GNR_1WF",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wrapped fists",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/GNR_1WF.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wrapped fists",
+    "type": "ability",
+    "cost": "1",
+    "faction": "GNR"
+  },
+  "GNR_2FS": {
+    "id": "GNR_1FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fighting spirit",
+        "type": "ability",
+        "cost": "2",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/GNR_2FS.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fighting spirit",
+    "type": "ability",
+    "cost": "2",
+    "faction": "GNR"
+  },
+  "GNR_2R": {
+    "id": "GNR_2R",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Research",
+        "type": "ability",
+        "cost": "2",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/GNR_2R.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Research",
+    "type": "ability",
+    "cost": "2",
+    "faction": "GNR"
+  },
+  "GNR_3E": {
+    "id": "GNR_3E",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Energizing",
+        "type": "ability",
+        "cost": "3",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/GNR_3E.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energizing",
+    "type": "ability",
+    "cost": "3",
+    "faction": "GNR"
+  },
+  "GNR_3FAK": {
+    "id": "GNR_3FAK",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "First aid kit",
+        "type": "ability",
+        "cost": "3",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/GNR_3FAK.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "First aid kit",
+    "type": "ability",
+    "cost": "3",
+    "faction": "GNR"
   }
 }
