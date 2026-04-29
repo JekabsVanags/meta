@@ -1,0 +1,19 @@
+{
+  "ASC_A_DAG": {
+    "id": "ASC_A_DAG",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "ASC_A_DAG",
+        "type": "meta",
+        "cost": 0,
+        "image": "https://file.garden/afDvqkDycVrE2_vr/Metas/ASC_A_DAG.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Data Angel GBR1L",
+    "type": "meta",
+    "cost": 0,
+    "faction": "ASC"
+  }
+}

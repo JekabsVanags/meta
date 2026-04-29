@@ -1,0 +1,187 @@
+{
+  "name": "Meta",
+  "menuBackgroundImage": "https://file.garden/afDvqkDycVrE2_vr/Card%20Back.png",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://static.vecteezy.com/system/resources/thumbnails/017/680/390/small/violet-zoom-abstract-background-photo.jpg"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "None",
+  "cardRotation": 45,
+  "cards": {
+    "dataUrl": "https://valcur.github.io/TCG-Arena-MTG/MTGCards.json",
+    "cardBack": "https://file.garden/afDvqkDycVrE2_vr/Card%20Back.png"
+  },
+  "deckBuilding": {
+    "mainFilters": ["type", "cost", "name"],
+    "formats": []
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "",
+        "startingHandSize": 4,
+        "drawNewHand": false,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": true,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [10],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": ["Played", "Set", "Metas", "Faction", "Equip / Other"],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "row",
+              "style": {},
+              "content": [
+                {
+                  "section": "Played",
+                  "style": {
+                    "width": "80vw"
+                  }
+                },
+                {
+                  "section": "Set",
+                  "style": {}
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": {},
+              "content": [
+                {
+                  "section": "Metas",
+                  "style": {
+                    "width": "80vw"
+                  }
+                },
+                {
+                  "section": "Faction",
+                  "style": {}
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": {},
+              "content": [
+                {
+                  "section": "Equip / Other",
+                  "style": {
+                    "width": "80vw"
+                  }
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": ["Metas", "Faction"],
+        "autoPlayFromHand": {
+          "ability": "Played",
+          "equipment": "Equip / Other",
+          "evo": "Metas",
+          "set": "Set"
+        },
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Played": {
+            "title": "Played",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Metas": {
+            "title": "Metas",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Equip / Other": {
+            "title": "Equip / Other",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Set": {
+            "title": "Set",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Faction": {
+            "title": "Faction",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
