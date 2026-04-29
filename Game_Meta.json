@@ -58,11 +58,11 @@
                 },
                 {
                   "section": "Equip",
-                  "style": { "width": "30%" }
+                  "style": { "width": "20%" }
                 },
                 {
                   "section": "Set",
-                  "style": { "width": "30%" }
+                  "style": { "width": "20%" }
                 }
               ],
               "isSymetricalForOpponents": false

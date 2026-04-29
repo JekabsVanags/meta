@@ -16,6 +16,57 @@
     "cost": 0,
     "faction": "ASC"
   },
+  "DWN": {
+    "id": "DWN",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dawnmoor coalition",
+        "type": "faction",
+        "cost": 0,
+        "image": "https://jekabsvanags.github.io/meta/CallingCardImages/DWN.jpg",
+        "isHorizontal": true
+      }
+    },
+    "name": "Dawnmoor coalition",
+    "type": "faction",
+    "cost": 0,
+    "faction": "DWN"
+  },
+  "KNS": {
+    "id": "KNS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kinshi-ta",
+        "type": "faction",
+        "cost": 0,
+        "image": "https://jekabsvanags.github.io/meta/CallingCardImages/KNS.jpg",
+        "isHorizontal": true
+      }
+    },
+    "name": "Kinshi-ta",
+    "type": "faction",
+    "cost": 0,
+    "faction": "KNS"
+  },
+  "VRS": {
+    "id": "VRS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vra`shi",
+        "type": "faction",
+        "cost": 0,
+        "image": "https://jekabsvanags.github.io/meta/CallingCardImages/VRS.jpg",
+        "isHorizontal": true
+      }
+    },
+    "name": "Vra`shi",
+    "type": "faction",
+    "cost": 0,
+    "faction": "VRS"
+  },
   "ASC_A_DAG": {
     "id": "ASC_A_DAG",
     "isToken": false,
@@ -133,6 +184,108 @@
     "name": "The Heart that remains",
     "type": "equipment",
     "cost": "1",
+    "faction": "ASC"
+  },
+  "ASC_1LOA": {
+    "id": "ASC_1LOA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Glimpse of ascension",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/ASC_1LOA.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Glimpse of ascension",
+    "type": "ability",
+    "cost": "1",
+    "faction": "ASC"
+  },
+  "ASC_2HP": {
+    "id": "ASC_2HP",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "HUNTER Protocol",
+        "type": "ability",
+        "cost": "2",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/ASC_2HP.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "HUNTER Protocol",
+    "type": "ability",
+    "cost": "2",
+    "faction": "ASC"
+  },
+  "ASC_2PP": {
+    "id": "ASC_2PP",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "PROTECTOR Protocol",
+        "type": "ability",
+        "cost": "2",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/ASC_2PP.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "PROTECTOR Protocol",
+    "type": "ability",
+    "cost": "2",
+    "faction": "ASC"
+  },
+  "ASC_2SC": {
+    "id": "ASC_2SC",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Solitary contemplation",
+        "type": "set",
+        "cost": "2",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/ASC_2SC.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Solitary contemplation",
+    "type": "set",
+    "cost": "2",
+    "faction": "ASC"
+  },
+  "ASC_3C": {
+    "id": "ASC_3C",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Convergence",
+        "type": "ability",
+        "cost": "3",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/ASC_3C.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Convergence",
+    "type": "ability",
+    "cost": "3",
+    "faction": "ASC"
+  },
+  "ASC_3MD": {
+    "id": "ASC_3MD",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mising data",
+        "type": "ability",
+        "cost": "3",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/ASC_3MD.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mising data",
+    "type": "ability",
+    "cost": "3",
     "faction": "ASC"
   },
   "ASC_3TS": {
