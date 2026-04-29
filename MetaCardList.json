@@ -67,6 +67,23 @@
     "cost": 0,
     "faction": "VRS"
   },
+  "PRS": {
+    "id": "PRS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Puresouls",
+        "type": "faction",
+        "cost": 0,
+        "image": "https://jekabsvanags.github.io/meta/CallingCardImages/PRS.jpg",
+        "isHorizontal": true
+      }
+    },
+    "name": "Puresouls",
+    "type": "faction",
+    "cost": 0,
+    "faction": "PRS"
+  },
   "ASC_A_DAG": {
     "id": "ASC_A_DAG",
     "isToken": false,
@@ -219,6 +236,108 @@
     "type": "meta",
     "cost": 0,
     "faction": "VRS"
+  },
+  "KNS_A_GM": {
+    "id": "KNS_A_GM",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guardian, Murasaki",
+        "type": "meta",
+        "cost": 0,
+        "image": "https://jekabsvanags.github.io/meta/MetaCardImages/KNS_A_GM.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guardian, Murasaki",
+    "type": "meta",
+    "cost": 0,
+    "faction": "KNS"
+  },
+  "KNS_B_LSH": {
+    "id": "KNS_B_LSH",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lost sword, Hōrō-sha",
+        "type": "meta",
+        "cost": 0,
+        "image": "https://jekabsvanags.github.io/meta/MetaCardImages/KNS_B_LSH.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lost sword, Hōrō-sha",
+    "type": "meta",
+    "cost": 0,
+    "faction": "KNS"
+  },
+  "KNS_C_HGK": {
+    "id": "KNS_C_HGK",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Herb gatherer, Keshi",
+        "type": "meta",
+        "cost": 0,
+        "image": "https://jekabsvanags.github.io/meta/MetaCardImages/KNS_C_HGK.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Herb gatherer, Keshi",
+    "type": "meta",
+    "cost": 0,
+    "faction": "KNS"
+  },
+  "PRS_A_SOBB": {
+    "id": "PRS_A_SOBB",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soul of blade-bearer",
+        "type": "meta",
+        "cost": 0,
+        "image": "https://jekabsvanags.github.io/meta/MetaCardImages/PRS_A_SOBB.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soul of blade-bearer",
+    "type": "meta",
+    "cost": 0,
+    "faction": "PRS"
+  },
+  "PRS_B_SOPF": {
+    "id": "PRS_B_SOPF",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soul of path-finder",
+        "type": "meta",
+        "cost": 0,
+        "image": "https://jekabsvanags.github.io/meta/MetaCardImages/PRS_B_SOPF.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soul of path-finder",
+    "type": "meta",
+    "cost": 0,
+    "faction": "PRS"
+  },
+  "PRS_C_SOSS": {
+    "id": "PRS_C_SOSS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Soul of story-seeker",
+        "type": "meta",
+        "cost": 0,
+        "image": "https://jekabsvanags.github.io/meta/MetaCardImages/PRS_C_SOSS.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soul of story-seeker",
+    "type": "meta",
+    "cost": 0,
+    "faction": "PRS"
   },
   "ASC_1BFTC": {
     "id": "ASC_1BFTC",
@@ -628,6 +747,619 @@
     "cost": "3",
     "faction": "DWN"
   },
+  "VRS_1BTF": {
+    "id": "VRS_1BTF",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Between two flames",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/VRS_1BTF.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Between two flames",
+    "type": "ability",
+    "cost": "1",
+    "faction": "VRS"
+  },
+  "VRS_1EJ": {
+    "id": "VRS_1EJ",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ember juggling",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/VRS_1EJ.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ember juggling",
+    "type": "ability",
+    "cost": "1",
+    "faction": "VRS"
+  },
+  "VRS_1FFW": {
+    "id": "VRS_1FFW",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flame from within",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/VRS_1FFW.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flame from within",
+    "type": "ability",
+    "cost": "1",
+    "faction": "VRS"
+  },
+  "VRS_1KOA": {
+    "id": "VRS_1KOA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Knowledge of ages",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/VRS_1KOA.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Knowledge of ages",
+    "type": "ability",
+    "cost": "1",
+    "faction": "VRS"
+  },
+  "VRS_1OOTE": {
+    "id": "VRS_1OOTE",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orders of the elders",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/VRS_1OOTE.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orders of the elders",
+    "type": "ability",
+    "cost": "1",
+    "faction": "VRS"
+  },
+  "VRS_2AGOS": {
+    "id": "VRS_2AGOS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ash gardens of silence",
+        "type": "set",
+        "cost": "2",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/VRS_2AGOS.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ash gardens of silence",
+    "type": "set",
+    "cost": "2",
+    "faction": "VRS"
+  },
+  "VRS_2FG": {
+    "id": "VRS_2FG",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flame gust",
+        "type": "ability",
+        "cost": "2",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/VRS_2FG.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flame gust",
+    "type": "ability",
+    "cost": "2",
+    "faction": "VRS"
+  },
+  "VRS_2ITG": {
+    "id": "VRS_2ITG",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ignite the ground",
+        "type": "ability",
+        "cost": "2",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/VRS_2ITG.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ignite the ground",
+    "type": "ability",
+    "cost": "2",
+    "faction": "VRS"
+  },
+  "VRS_2SFB": {
+    "id": "VRS_2SFB",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sacred flame, Budr`ta",
+        "type": "ability",
+        "cost": "2",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/VRS_2SFB.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sacred flame, Budr`ta",
+    "type": "ability",
+    "cost": "2",
+    "faction": "VRS"
+  },
+  "VRS_3FON": {
+    "id": "VRS_3FON",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flames of Narva`na",
+        "type": "ability",
+        "cost": "3",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/VRS_3FON.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flames of Narva`na",
+    "type": "ability",
+    "cost": "3",
+    "faction": "VRS"
+  },
+  "VRS_3SOTF": {
+    "id": "VRS_3SOTF",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Serenity of the flame",
+        "type": "set",
+        "cost": "3",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/VRS_3SOTF.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Serenity of the flame",
+    "type": "set",
+    "cost": "3",
+    "faction": "VRS"
+  },
+  "VRS_3POTA": {
+    "id": "VRS_3POTA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Peace of the ash",
+        "type": "ability",
+        "cost": "3",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/VRS_3POTA.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Peace of the ash",
+    "type": "ability",
+    "cost": "3",
+    "faction": "VRS"
+  },
+  "KNS_1COTS": {
+    "id": "KNS_1COTS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Curse of the samurai",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/KNS_1COTS.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Curse of the samurai",
+    "type": "ability",
+    "cost": "1",
+    "faction": "KNS"
+  },
+  "KNS_1MTS": {
+    "id": "KNS_1MTS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Meeting the samurai",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/KNS_1MTS.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Meeting the samurai",
+    "type": "ability",
+    "cost": "1",
+    "faction": "KNS"
+  },
+  "KNS_1TCL": {
+    "id": "KNS_1TCL",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Cloud lord",
+        "type": "set",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/KNS_1TCL.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Cloud lord",
+    "type": "set",
+    "cost": "1",
+    "faction": "KNS"
+  },
+  "KNS_1TGT": {
+    "id": "KNS_1TGT",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The gathered texts",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/KNS_1TGT.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flamebearer, Tur`ya",
+    "type": "ability",
+    "cost": "1",
+    "faction": "KNS"
+  },
+  "KNS_1TTCL": {
+    "id": "KNS_1TTCL",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Two-cap lord",
+        "type": "set",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/KNS_1TTCL.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Two-cap lord",
+    "type": "set",
+    "cost": "1",
+    "faction": "KNS"
+  },
+  "KNS_2EG": {
+    "id": "KNS_2EG",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elder Guardian",
+        "type": "evo",
+        "cost": "2",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/KNS_2EG.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elder Guardian",
+    "type": "evo",
+    "cost": "2",
+    "faction": "KNS"
+  },
+  "KNS_2FLTW": {
+    "id": "KNS_2FLTW",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flow like the water",
+        "type": "ability",
+        "cost": "2",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/KNS_2FLTW.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flow like the water",
+    "type": "ability",
+    "cost": "2",
+    "faction": "KNS"
+  },
+  "KNS_2SE": {
+    "id": "KNS_2SE",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spore explosion",
+        "type": "set",
+        "cost": "2",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/KNS_2SE.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spore explosion",
+    "type": "set",
+    "cost": "2",
+    "faction": "KNS"
+  },
+  "KNS_2TBP": {
+    "id": "KNS_2TBP",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Bright protector",
+        "type": "set",
+        "cost": "2",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/KNS_2TBP.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Bright protector",
+    "type": "set",
+    "cost": "2",
+    "faction": "KNS"
+  },
+  "KNS_3GM": {
+    "id": "KNS_3GM",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Greencap medicine",
+        "type": "ability",
+        "cost": "3",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/KNS_3GM.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Greencap medicine",
+    "type": "ability",
+    "cost": "3",
+    "faction": "KNS"
+  },
+  "KNS_3BOTF": {
+    "id": "KNS_3BOTF",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Blade of the fallen",
+        "type": "ability",
+        "cost": "3",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/KNS_3BOTF.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blade of the fallen",
+    "type": "ability",
+    "cost": "3",
+    "faction": "KNS"
+  },
+  "KNS_3TBS": {
+    "id": "KNS_3TBS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Bright Shogun",
+        "type": "set",
+        "cost": "3",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/KNS_3TBS.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Bright Shogun",
+    "type": "set",
+    "cost": "3",
+    "faction": "KNS"
+  },
+  "PRS_1DOD": {
+    "id": "PRS_1DOD",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dance of disagreement",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/PRS_1DOD.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dance of disagreement",
+    "type": "ability",
+    "cost": "1",
+    "faction": "PRS"
+  },
+  "PRS_1FOA": {
+    "id": "PRS_1FOA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Familiars of anima",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/PRS_1FOA.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Familiars of anima",
+    "type": "ability",
+    "cost": "1",
+    "faction": "PRS"
+  },
+  "PRS_1MI": {
+    "id": "PRS_1MI",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Memento Ipse",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/PRS_1MI.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Memento Ipse",
+    "type": "ability",
+    "cost": "1",
+    "faction": "PRS"
+  },
+  "PRS_1NOE": {
+    "id": "PRS_1NOE",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nectar of emotions",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/PRS_1NOE.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nectar of emotions",
+    "type": "ability",
+    "cost": "1",
+    "faction": "PRS"
+  },
+  "PRS_1SOTS": {
+    "id": "PRS_1SOTS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shroud of the self",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/PRS_1SOTS.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shroud of the self",
+    "type": "ability",
+    "cost": "1",
+    "faction": "PRS"
+  },
+  "PRS_2COS": {
+    "id": "PRS_2COS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Current of souls",
+        "type": "ability",
+        "cost": "2",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/PRS_2COS.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Current of souls",
+    "type": "ability",
+    "cost": "2",
+    "faction": "PRS"
+  },
+  "PRS_2MOTF": {
+    "id": "PRS_2MOTF",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mirror of the future",
+        "type": "ability",
+        "cost": "2",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/PRS_2MOTF.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mirror of the future",
+    "type": "ability",
+    "cost": "2",
+    "faction": "PRS"
+  },
+  "PRS_2WOA": {
+    "id": "PRS_2WOA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wings of anima",
+        "type": "ability",
+        "cost": "2",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/PRS_2WOA.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wings of anima",
+    "type": "ability",
+    "cost": "2",
+    "faction": "PRS"
+  },
+  "PRS_2WTC": {
+    "id": "PRS_2WTC",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Wandering the corridors",
+        "type": "set",
+        "cost": "2",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/PRS_2WTC.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Wandering the corridors",
+    "type": "set",
+    "cost": "2",
+    "faction": "PRS"
+  },
+  "PRS_3GOF": {
+    "id": "PRS_3GOF",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Glimpse of fellowship",
+        "type": "ability",
+        "cost": "3",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/PRS_3GOF.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Glimpse of fellowship",
+    "type": "ability",
+    "cost": "3",
+    "faction": "PRS"
+  },
+  "PRS_3GOL": {
+    "id": "PRS_3GOL",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Glimpse of love",
+        "type": "ability",
+        "cost": "3",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/PRS_3GOL.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Glimpse of love",
+    "type": "ability",
+    "cost": "3",
+    "faction": "PRS"
+  },
+  "PRS_3GOS": {
+    "id": "PRS_3GOS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Glimpse of solitude",
+        "type": "ability",
+        "cost": "3",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/PRS_3GOS.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Glimpse of solitude",
+    "type": "ability",
+    "cost": "3",
+    "faction": "PRS"
+  },
+
   "GNR_1A": {
     "id": "GNR_1A",
     "isToken": false,
