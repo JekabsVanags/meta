@@ -54,15 +54,15 @@
               "content": [
                 {
                   "section": "Played",
-                  "style": false
+                  "style": { "width": "60%" }
                 },
                 {
                   "section": "Equip",
-                  "style": false
+                  "style": { "width": "30%" }
                 },
                 {
                   "section": "Set",
-                  "style": false
+                  "style": { "width": "30%" }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -73,11 +73,11 @@
               "content": [
                 {
                   "section": "Metas",
-                  "style": false
+                  "style": { "width": "80%" }
                 },
                 {
                   "section": "Faction",
-                  "style": false
+                  "style": { "width": "20%" }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -101,7 +101,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
-            "displayedTitle": "",
+            "displayedTitle": "Played cards",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -133,7 +133,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Set",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -148,7 +148,7 @@
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
+            "isHorizontalAllowed": true,
             "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
@@ -165,7 +165,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
+            "displayedTitle": "Equipment",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
