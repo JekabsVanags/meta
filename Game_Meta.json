@@ -43,7 +43,7 @@
       "countersStartingValues": [10],
       "hideFacedDownCards": false,
       "sections": {
-        "customSections": ["Played", "Set", "Metas", "Faction", "Equip / Other"],
+        "customSections": ["Played", "Set", "Metas", "Faction", "Equip"],
         "layout": {
           "direction": "column",
           "isSymetricalForOpponents": false,
