@@ -18,7 +18,8 @@
     "formats": [
       {
         "title": "Classic",
-        "gameplay": "Classic"
+        "gameplay": "Classic",
+        "customCategories": ["Metas", "Faction"]
       }
     ]
   },
