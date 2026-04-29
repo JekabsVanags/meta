@@ -1,21 +1,4 @@
 {
-  "ASC_A_DAG": {
-    "id": "ASC_A_DAG",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "ASC_A_DAG",
-        "type": "meta",
-        "cost": 0,
-        "image": "https://jekabsvanags.github.io/meta/MetaCardImages/ASC_A_DAG.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "Data Angel GBR1L",
-    "type": "meta",
-    "cost": 0,
-    "faction": "ASC"
-  },
   "ASC": {
     "id": "ASC",
     "isToken": false,
@@ -33,6 +16,57 @@
     "cost": 0,
     "faction": "ASC"
   },
+  "ASC_A_DAG": {
+    "id": "ASC_A_DAG",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Data Angel GBR1L",
+        "type": "meta",
+        "cost": 0,
+        "image": "https://jekabsvanags.github.io/meta/MetaCardImages/ASC_A_DAG.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Data Angel GBR1L",
+    "type": "meta",
+    "cost": 0,
+    "faction": "ASC"
+  },
+  "ASC_B_NCM": {
+    "id": "ASC_B_NCM",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Neo Crusader, MCH2L",
+        "type": "meta",
+        "cost": 0,
+        "image": "https://jekabsvanags.github.io/meta/MetaCardImages/ASC_B_NCM.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Neo Crusader, MCH2L",
+    "type": "meta",
+    "cost": 0,
+    "faction": "ASC"
+  },
+  "ASC_C_WJ": {
+    "id": "ASC_C_WJ",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Webseer, JPH3L",
+        "type": "meta",
+        "cost": 0,
+        "image": "https://jekabsvanags.github.io/meta/MetaCardImages/ASC_C_WJ.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Webseer, JPH3L",
+    "type": "meta",
+    "cost": 0,
+    "faction": "ASC"
+  },
   "ASC_1BFTC": {
     "id": "ASC_1BFTC",
     "isToken": false,
@@ -46,6 +80,40 @@
       }
     },
     "name": "Beads of the chant",
+    "type": "ability",
+    "cost": "1",
+    "faction": "ASC"
+  },
+  "ASC_1CB": {
+    "id": "ASC_1CB",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Code BLUE",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/ASC_1CB.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Code BLUE",
+    "type": "ability",
+    "cost": "1",
+    "faction": "ASC"
+  },
+  "ASC_1CR": {
+    "id": "ASC_1CR",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Code RED",
+        "type": "ability",
+        "cost": "1",
+        "image": "https://jekabsvanags.github.io/meta/AbilityCardImages/ASC_1CR.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Code RED",
     "type": "ability",
     "cost": "1",
     "faction": "ASC"

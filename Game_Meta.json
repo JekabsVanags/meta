@@ -8,7 +8,7 @@
     "decksUrl": "https://jekabsvanags.github.io/meta/DeckList.json"
   },
   "customHelp": "None",
-  "cardRotation": 45,
+  "cardRotation": 90,
   "cards": {
     "dataUrl": "https://jekabsvanags.github.io/meta/MetaCardList.json",
     "cardBack": "https://jekabsvanags.github.io/meta/Card%20Back.png"
@@ -148,7 +148,7 @@
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
+            "isHorizontalAllowed": false,
             "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
