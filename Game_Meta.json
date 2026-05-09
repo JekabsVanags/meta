@@ -19,7 +19,7 @@
       {
         "title": "Classic",
         "gameplay": "Classic",
-        "customCategories": ["Metas", "Faction"]
+        "customCategories": ["Meta", "Faction"]
       }
     ],
     "deckRulesets": {
@@ -31,7 +31,7 @@
         },
         "categories": [
           {
-            "category": "Metas",
+            "category": "Meta",
             "min": 3,
             "max": 3,
             "maxPerCard": 1
