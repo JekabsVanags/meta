@@ -95,7 +95,7 @@
               "style": {},
               "content": [
                 {
-                  "section": "Metas",
+                  "section": "Meta",
                   "style": { "width": "80%" }
                 },
                 {
@@ -107,11 +107,11 @@
             }
           ]
         },
-        "categoriesAlreadyOnBoard": ["Metas", "Faction"],
+        "categoriesAlreadyOnBoard": ["Meta", "Faction"],
         "autoPlayFromHand": {
           "ability": "Played",
           "equipment": "Equip ",
-          "evo": "Metas",
+          "evo": "Meta",
           "set": "Set"
         },
         "autoPlayFromStack": {},
@@ -132,8 +132,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Metas": {
-            "title": "Metas",
+          "Meta": {
+            "title": "Meta",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
